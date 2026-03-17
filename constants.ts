@@ -1,11 +1,11 @@
-export const WHATSAPP_NUMBER = "5511999999999"; // Placeholder
+export const WHATSAPP_NUMBER = "5521998089980";
 export const WHATSAPP_LINK = `https://wa.me/${WHATSAPP_NUMBER}`;
 
 export const COMPANY_INFO = {
   name: "União Contábil",
-  address: "Av. Paulista, 1000 - Bela Vista, São Paulo - SP",
+  address: "Rua Doutor Borman, N•23 sala 307, Centro, Niterói, RJ",
   email: "contato@uniaocontabil.com.br",
-  phone: "(11) 3000-0000",
+  phone: "(21) 99808-9980",
   years: 15,
   clients: 500,
   satisfaction: 98
